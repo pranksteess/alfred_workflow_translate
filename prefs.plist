@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deepl_api_key</key>
+	<string>651c3ace-c768-9952-e664-c3750c17f175:fx</string>
+	<key>youdao_appid</key>
+	<string>2dbf3a58df74d70b</string>
+	<key>youdao_sec</key>
+	<string>LQ4lEgCqLiK5IVa0yqsQ4al6KUjRGooJ</string>
+</dict>
+</plist>
